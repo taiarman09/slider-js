@@ -11,8 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(90deg,rgba(150, 225, 242, 1) 0%, rgba(122, 189, 204, 1) 22%, rgba(70, 121, 133, 1) 100%);
-
+    background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
 }
 
 .card{
